@@ -1,0 +1,13 @@
+styles = StyleSheet.create({
+    container: {
+      flex: 1
+    },
+    loadingIndicatorStyle : {
+      marginVertical: 20
+    },
+    noCommentsMessage: {
+      margin: 20,
+      fontSize: 14,
+      fontWeight: '500'
+    }
+  })
